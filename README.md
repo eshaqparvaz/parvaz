@@ -1,0 +1,2 @@
+# parvaz
+windows 10
